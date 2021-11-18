@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Jakes-Plastering-Services/static/css/main.5827c556.chunk.css",
-    "main.js": "/Jakes-Plastering-Services/static/js/main.e0a232f6.chunk.js",
-    "main.js.map": "/Jakes-Plastering-Services/static/js/main.e0a232f6.chunk.js.map",
+    "main.css": "/Jakes-Plastering-Services/static/css/main.271566b7.chunk.css",
+    "main.js": "/Jakes-Plastering-Services/static/js/main.be0e80b6.chunk.js",
+    "main.js.map": "/Jakes-Plastering-Services/static/js/main.be0e80b6.chunk.js.map",
     "runtime-main.js": "/Jakes-Plastering-Services/static/js/runtime-main.af6586d0.js",
     "runtime-main.js.map": "/Jakes-Plastering-Services/static/js/runtime-main.af6586d0.js.map",
     "static/js/2.20853c22.chunk.js": "/Jakes-Plastering-Services/static/js/2.20853c22.chunk.js",
     "static/js/2.20853c22.chunk.js.map": "/Jakes-Plastering-Services/static/js/2.20853c22.chunk.js.map",
     "index.html": "/Jakes-Plastering-Services/index.html",
-    "static/css/main.5827c556.chunk.css.map": "/Jakes-Plastering-Services/static/css/main.5827c556.chunk.css.map",
+    "static/css/main.271566b7.chunk.css.map": "/Jakes-Plastering-Services/static/css/main.271566b7.chunk.css.map",
     "static/js/2.20853c22.chunk.js.LICENSE.txt": "/Jakes-Plastering-Services/static/js/2.20853c22.chunk.js.LICENSE.txt",
     "static/media/kitchen-wall.3756232e.png": "/Jakes-Plastering-Services/static/media/kitchen-wall.3756232e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.af6586d0.js",
     "static/js/2.20853c22.chunk.js",
-    "static/css/main.5827c556.chunk.css",
-    "static/js/main.e0a232f6.chunk.js"
+    "static/css/main.271566b7.chunk.css",
+    "static/js/main.be0e80b6.chunk.js"
   ]
 }
