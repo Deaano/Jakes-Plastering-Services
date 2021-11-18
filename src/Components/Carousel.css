@@ -1,0 +1,47 @@
+.carousel-title{
+    position: absolute;
+    top: 10px;
+    margin-left: 20px;
+    z-index: 2;
+    font-size: 3rem;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1.5px;
+}
+
+.carousel{
+    min-width: 86%;
+    flex-grow: 1;
+    margin-left: 7%;
+    margin-right: 7%;
+    height: 450px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 105px;
+}
+
+.carousel-image{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+@media(max-width:600px){
+    .carousel{
+        width: 100%;
+        margin: 0;
+        margin-top: 50px;
+        margin-top: 105px;
+        height: 300px;
+        
+    }
+
+    .carousel-image{
+        height: 300px;
+    }
+
+    
+    
+
+    
+}
